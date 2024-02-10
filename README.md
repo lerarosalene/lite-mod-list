@@ -26,16 +26,15 @@
 3. [Tempered Skins for Males - Vanilla and SOS versionsrsions](https://www.nexusmods.com/skyrimspecialedition/mods/7902) - dressed version
 4. [Expressive Facegen Morphs SE](https://www.nexusmods.com/skyrimspecialedition/mods/35785/)
 5. [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
-6. [VioLens - A Killmove Mod SE](https://www.nexusmods.com/skyrimspecialedition/mods/668)
-7. [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
-8. [Lady Miraak - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/6835)
-9. [Magistrate Eyes SE](https://www.nexusmods.com/skyrimspecialedition/mods/23874)
-10. [ETHEREAL COSMOS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5728)
-11. [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrim/mods/8655/)
-12. [Glowing Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/45348)
-13. [Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483)
-14. [AW Men of the Companions Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49778)
-15. Dwemer Helmet Replacer (NordWarUA) - not published anywhere, custom mod. See [additional notes](#additional-notes).
+6. [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
+7. [Lady Miraak - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/6835)
+8. [Magistrate Eyes SE](https://www.nexusmods.com/skyrimspecialedition/mods/23874)
+9. [ETHEREAL COSMOS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5728)
+10. [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrim/mods/8655/)
+11. [Glowing Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/45348)
+12. [Scimitar Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/28483)
+13. [AW Men of the Companions Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49778)
+14. Dwemer Helmet Replacer (NordWarUA) - not published anywhere, custom mod. See [additional notes](#additional-notes).
 
 ### Quests
 
@@ -60,6 +59,7 @@
 14. [No Disarm (Unequip Instead)](https://www.nexusmods.com/skyrimspecialedition/mods/27188/)
 15. [Arcane Arrows Revoked](https://www.nexusmods.com/skyrimspecialedition/mods/105068/)
 16. [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Classic with all roads
+17. [VioLens - A Killmove Mod SE](https://www.nexusmods.com/skyrimspecialedition/mods/668)
 
 ### Other
 
